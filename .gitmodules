@@ -14,4 +14,4 @@
 	url = https://github.com/g-truc/glm
 [submodule "vendor/GLFW"]
 	path = vendor/GLFW
-	url = https://github.com/TheCherno/GLFW
+	url = https://github.com/valerioformato/glfw
